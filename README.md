@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manas Mandal
-- 👀 I’m interested in Google Flutter
-- 🌱 I’m currently learning Dart Language and Flutter
+- 👀 I’m a Fullstack Web developer
+- 🌱 I’m currently learning nextJs
 - 💞️ I’m looking to collaborate on Flutter APP
 - 📫 How to reach me ...
 
